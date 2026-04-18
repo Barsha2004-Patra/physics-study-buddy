@@ -167,6 +167,12 @@ This project demonstrates:
 
 ---
 
+## 📸 Screenshots
+
+Screenshots of the application are included in the submitted project document.
+
+---
+
 ## 👨‍🏫 Instructor
 
 **Dr. Kanthi Kiran Sirra**
