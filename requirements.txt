@@ -1,5 +1,0 @@
-streamlit
-sentence-transformers
-chromadb
-langchain-groq
-langgraph
